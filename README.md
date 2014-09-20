@@ -6,12 +6,12 @@ Remove duplicate files
 How to use
 ----------
 keys:
--h 	-help
--r		-recoursive
+-h 	-help  
+-r		-recoursive  
 -d [dir]	-directory
 
-example:
+example:  
 rmdupes -rd ./Files/	- delete all duplicate files in directory "Files"
 
-TODO:
+TODO:  
 -s  templates
